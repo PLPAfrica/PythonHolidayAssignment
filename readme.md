@@ -36,8 +36,6 @@ This assignment is basically to help you through the dec holiday with practical 
 ### Assignment 3: File Encryption and Decryption
 #### Task:
 
-Write a Python script that encrypts a text file using a simple encryption algorithm (e.g., Caesar cipher).
-Implement a decryption function to recover the original text.
-Experiment with different encryption algorithms for bonus points.
-
-
+- Write a Python script that encrypts a text file using a simple encryption algorithm (e.g., Caesar cipher).
+- Implement a decryption function to recover the original text.
+- Experiment with different encryption algorithms for bonus points.
