@@ -34,3 +34,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+#  None keyword is used to define a null value, or no value at all
